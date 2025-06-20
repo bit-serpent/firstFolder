@@ -1,4 +1,5 @@
 'this is a scl file'
 if _condition_ then
     //code;
+    // additional comment
 end_if;
