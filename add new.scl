@@ -2,4 +2,5 @@
 if _condition_ then
     //code;
     // additional comment
+    // staged version
 end_if;
