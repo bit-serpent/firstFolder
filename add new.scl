@@ -3,4 +3,5 @@ if _condition_ then
     //code;
     // additional comment
     // staged version
+    // 与stage的有区别    
 end_if;
